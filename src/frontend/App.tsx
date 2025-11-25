@@ -41,6 +41,7 @@ function App() {
           </form>
         </div>
       </div>
+      <p className="text-red-500">Teste</p>
     </div>
   );
 }
